@@ -1,0 +1,4 @@
+{
+    "python.defaultInterpreterPath": "/Users/guoning/anaconda3/envs/localRAG/bin/python",
+    "python.terminal.activateEnvironment": true
+}
